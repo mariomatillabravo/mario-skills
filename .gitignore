@@ -1,0 +1,5 @@
+# Reportes generados por token-reviewer (contienen el texto de los prompts)
+reports/
+
+__pycache__/
+*.pyc

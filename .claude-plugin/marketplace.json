@@ -1,0 +1,23 @@
+{
+  "name": "mario-skills",
+  "description": "Skills para Claude Code / Skills for Claude Code",
+  "owner": {
+    "name": "mariomatillabravo",
+    "url": "https://github.com/mariomatillabravo"
+  },
+  "plugins": [
+    {
+      "name": "token-reviewer",
+      "source": "./skills/token-reviewer",
+      "description": "Tokens y coste estimado de tus sesiones de Claude Code, turno a turno / Token usage and estimated cost of your Claude Code sessions, turn by turn",
+      "version": "2.1.0",
+      "author": {
+        "name": "mariomatillabravo"
+      },
+      "homepage": "https://github.com/mariomatillabravo/mario-skills",
+      "repository": "https://github.com/mariomatillabravo/mario-skills",
+      "keywords": ["tokens", "cost", "usage", "pricing", "coste", "consumo"],
+      "category": "productivity"
+    }
+  ]
+}
